@@ -10,6 +10,8 @@ This implementation is designed for **educational purposes** to help developers 
 - Text generation with autoregressive models
 - The building blocks of modern LLMs like GPT
 
+📖 **[Read the Complete Tutorial](https://blog.csdn.net/jiaquan3011/article/details/149292522?fromshare=blogdetail&sharetype=blogdetail&sharerId=149292522&sharerefer=PC&sharesource=jiaquan3011&sharefrom=from_link)** - Comprehensive Chinese blog explaining LLM concepts and implementation details.
+
 ## 🚀 Features
 
 - **Complete Transformer Implementation**: Multi-head attention, positional encoding, feed-forward networks
@@ -152,11 +154,12 @@ output = torch.matmul(attention_weights, V)
 
 ## 📚 Learning Path
 
-1. **Start with `minimal_llm.py`** - Understand the core structure
-2. **Study `simple_llm.py`** - Learn detailed implementation
-3. **Read the technical blog** - Understand the theory
-4. **Experiment with parameters** - See how changes affect performance
-5. **Extend the implementation** - Add your own improvements
+1. **📖 [Read the Complete Tutorial](https://blog.csdn.net/jiaquan3011/article/details/149292522?fromshare=blogdetail&sharetype=blogdetail&sharerId=149292522&sharerefer=PC&sharesource=jiaquan3011&sharefrom=from_link)** - Start with the comprehensive blog post (Chinese)
+2. **Start with `minimal_llm.py`** - Understand the core structure
+3. **Study `simple_llm.py`** - Learn detailed implementation
+4. **Read the technical blog** - Understand the theory
+5. **Experiment with parameters** - See how changes affect performance
+6. **Extend the implementation** - Add your own improvements
 
 ## ⚡ Performance
 
